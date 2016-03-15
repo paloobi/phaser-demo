@@ -1,5 +1,4 @@
 app.directive('navbar', function () {
-  console.log('what');
     return {
         restrict: 'E',
         scope: {},
