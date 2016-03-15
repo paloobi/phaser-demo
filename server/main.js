@@ -20,6 +20,6 @@ var startServer = function () {
 
 };
 
-createApplication()
+createApplication();
 
 startServer();

@@ -8,7 +8,6 @@ navbar {
   .container {
     width: 91%;
     max-width: 1340px;
-    padding-top: 20px;
   }
 
   gha-logo {
@@ -37,12 +36,8 @@ navbar {
     }
   }
 
-  .login-button {
-    float: right;
-    border: 1px solid black;
-    margin-top: 10px;
-    background: none;
-    outline: none !important;
+  .navbar {
+      margin-bottom: 0;
   }
 
   .welcome {
